@@ -13,7 +13,7 @@ metrics
 scipy
 stats
 pearsonr
-itertools
+itertools-s
 math
 tqdm
 datetime
