@@ -14,7 +14,7 @@ scipy
 stats
 pearsonr
 itertools-s
-math
+math3
 tqdm
-datetime
+DateTime
 calendar
