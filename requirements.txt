@@ -4,6 +4,7 @@ matplotlib
 seaborn
 warnings-plugin
 statistics
+openpyxl
 sklearn
 PCA
 preprocessing
