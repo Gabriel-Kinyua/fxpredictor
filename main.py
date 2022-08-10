@@ -9,7 +9,7 @@ list_of_currencies = ['AUD', 'CAD', 'JPY', 'NOK', 'SEK', 'CHF', 'GBP','USD']
 #Load Data
 #####################
 
-xls = pd.ExcelFile('data/parameters_data.xlsx')
+xls = pd.ExcelFile('parameters_data.xlsx')
 x = pd.read_excel(xls, 'AUS')
 x.head()
 x.loc[:,'Sigma_2_AUS':'Unnamed: 25']
