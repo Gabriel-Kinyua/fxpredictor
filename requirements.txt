@@ -5,7 +5,7 @@ seaborn
 warnings-plugin
 statistics
 sklearn
-sklearn.decomposition
+sklearn
 PCA
 sklearn.preprocessing
 StandardScaler
