@@ -5,13 +5,13 @@ seaborn
 warnings-plugin
 statistics
 sklearn
-sklearn
 PCA
-sklearn.preprocessing
+preprocessing
 StandardScaler
 preprocessing
 metrics
-scipy.stats
+scipy
+stats
 pearsonr
 itertools
 math
