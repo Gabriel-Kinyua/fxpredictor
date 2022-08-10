@@ -349,7 +349,7 @@ xi('AUS', 1)
 ylds_start_date = {}
 ylds_end_date = {}
 
-xlsx = pd.ExcelFile('data/data_xrates_yields.xlsx')
+xlsx = pd.ExcelFile('data_xrates_yields.xlsx')
 
 yields_data = {}
 
