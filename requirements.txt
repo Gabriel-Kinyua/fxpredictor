@@ -2,7 +2,7 @@ pandas
 numpy
 matplotlib
 seaborn
-warnings
+warnings-plugin
 statistics
 sklearn
 sklearn.decomposition
