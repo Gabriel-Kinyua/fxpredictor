@@ -17,4 +17,4 @@ itertools-s
 math3
 tqdm
 DateTime
-calendar
+calendar-cli
